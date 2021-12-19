@@ -5,13 +5,13 @@
 
 - 🌱 I wanna be a **Full-stack developer in the future**
 
-- 🤝 I’m looking for learning more about **React and Redux**
+- 🤝 I want to learn more about **React and Redux**
 
 - 👨‍💻 You can know more about me at [My portfolio Website.](https://mohammedwsalah.com)
 
 - 📫 You can E-mail me on **mohamedwsalah@outlook.com**
 
-- ⚡ Fun fact **I am a Gamer ! somehow.**
+- ⚡ Fun fact **I am a Gamer!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,3 +25,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedwsalah&show_icons=true&locale=en&layout=compact" alt="mohamedwsalah" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedwsalah&show_icons=true&locale=en" alt="mohamedwsalah" /></p>
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=qhw6ws3izkg0fykcxpikj6t22)
+
