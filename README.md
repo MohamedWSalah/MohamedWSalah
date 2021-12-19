@@ -24,7 +24,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedwsalah&show_icons=true&locale=en&layout=compact" alt="mohamedwsalah" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedwsalah&show_icons=true&locale=en" alt="mohamedwsalah" /></p>
+<p>&nbsp;<img align="center" style="height: auto; width: auto;" src="https://github-readme-stats.vercel.app/api?username=mohamedwsalah&show_icons=true&locale=en" alt="mohamedwsalah" /></p>
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=qhw6ws3izkg0fykcxpikj6t22)
 
