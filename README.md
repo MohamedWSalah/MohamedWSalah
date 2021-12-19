@@ -7,7 +7,7 @@
 
 - 🤝 I want to learn more about **React and Redux**
 
-- 👨‍💻 You can know more about me at [My portfolio Website.](https://mohammedwsalah.com)
+- 👨‍💻 You can know more about me at [My portfolio Website.](https://mohamedwsalah.com)
 
 - 📫 You can E-mail me on **mohamedwsalah@outlook.com**
 
@@ -24,7 +24,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedwsalah&show_icons=true&locale=en&layout=compact" alt="mohamedwsalah" /></p>
 
-<p>&nbsp;<img align="center" style="height: auto; width: 370px;" src="https://github-readme-stats.vercel.app/api?username=mohamedwsalah&show_icons=true&locale=en" alt="mohamedwsalah" /></p>
+<p>&nbsp;<img align="center" style="height: 165px; width: 370px;" src="https://github-readme-stats.vercel.app/api?username=mohamedwsalah&show_icons=true&locale=en" alt="mohamedwsalah" /></p>
+<h3 align="left" style="color:green;">Spotify</h3>
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=qhw6ws3izkg0fykcxpikj6t22)
 
