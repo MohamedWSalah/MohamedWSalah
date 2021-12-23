@@ -27,6 +27,15 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedwsalah&show_icons=true&locale=en&layout=compact" alt="mohamedwsalah" /></p>
 
 <p>&nbsp;<img align="center" style="height: 165px;" src="https://github-readme-stats.vercel.app/api?username=mohamedwsalah&show_icons=true&locale=en" alt="mohamedwsalah" /></p>
+
+
+
+[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8775722&layout=compact&theme=dark)](https://stackoverflow.com/users/12156637/omid-nikrah)
+<a href="https://stackoverflow.com/users/8775722/mohamed-salah">
+<img width="70px" src="https://raw.githubusercontent.com/omidnikrah/github-readme-stackoverflow/master/stackoverflow.svg" />
+</a>
+
+
 <h3 align="left" style="color:green;">Spotify 🎧</h3>
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=qhw6ws3izkg0fykcxpikj6t22)
