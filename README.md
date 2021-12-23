@@ -30,7 +30,7 @@
 
 
 
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8775722&layout=compact&theme=dark)](https://stackoverflow.com/users/12156637/omid-nikrah)
+[![Mohamed Salah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8775722&layout=compact&theme=dark)](https://stackoverflow.com/users/8775722/mohamed-salah)
 <a href="https://stackoverflow.com/users/8775722/mohamed-salah">
 <img width="70px" src="https://raw.githubusercontent.com/omidnikrah/github-readme-stackoverflow/master/stackoverflow.svg" />
 </a>
