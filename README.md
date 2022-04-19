@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Salah</h1>
 <h3 align="center">A passionate Software Engineer !!</h3>
 
-- 🔭 I'm currently interested in **Front-end development**
+- 🔭 I'm currently interested in **Full-stack Development** using **React, Redux, and NodeJS**
 
 - 🌱 I'm currently working as an **Associate Software Developer** @ **Sumerge** Company.
 
