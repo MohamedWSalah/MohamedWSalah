@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mohamed Salah</h1>
-<h3 align="center">A passionate Software Developer !!</h3>
+<h3 align="center">A passionate Software Engineer !!</h3>
 
-- 🔭 I’m currently interested in **Front-end development**
+- 🔭 I'm currently interested in **Front-end development**
 
-- 🌱 I wanna be a **Full-stack developer in the future**
-
-- 🤝 I want to learn more about **React and Redux**
+- 🌱 I'm currently working as an **Associate Software Developer** @ **Sumerge** Company.
 
 - 👨‍💻 You can know more about me at [My portfolio Website.](https://mohamedwsalah.com)
 
 - 📫 You can E-mail me on **mohamedwsalah@outlook.com**
 
-- ⚡ Fun fact **I am a Gamer!**
+- ⚡ Fact **I am a Gamer!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
