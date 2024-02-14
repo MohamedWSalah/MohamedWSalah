@@ -3,8 +3,6 @@
 
 - 🔭 I'm currently interested in **Full-stack Development** using Different technologies like **Angular, React, Spring-boot, Node.js**
 
-- 🌱 I'm currently working as an **Associate Software Developer** @ **Sumerge** Company.
-
 - 👨‍💻 You can know more about me at [My portfolio Website.](https://master--mohamedwsalah.netlify.app/)
 
 - 📫 You can E-mail me on **mohamedwsalah@outlook.com**
